@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HashMap2.0:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HashMap2_0_jar</output-path>
+    <root id="archive" name="HashMap2.0.jar">
+      <element id="module-output" name="HashMap2.0" />
+    </root>
+  </artifact>
+</component>
